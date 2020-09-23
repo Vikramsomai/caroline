@@ -16,3 +16,8 @@
 .btn-primary{
   background:blue;
 }
+.box{
+  background:red;
+  width:400px;
+  height:400px;
+}
